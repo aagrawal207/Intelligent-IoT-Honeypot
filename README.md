@@ -4,6 +4,9 @@ An Intelligent Honeypot for Heterogeneous IoT Devices using Reinforcement Learni
 
 Report of my BTP Final Report can be found [here](https://www.dropbox.com/s/f9hqo3zd8lptqhr/BTP_Final_Report.pdf?dl=0).
 
+This project is based on the paper [IoTCandyJar: Towards an Intelligent-Interaction Honeypot
+for IoT Devices](https://paper.seebug.org/papers/Security%20Conf/Blackhat/2017_us/us-17-Luo-Iotcandyjar-Towards-An-Intelligent-Interaction-Honeypot-For-IoT-Devices-wp.pdf).
+
 ### Requirements
 
 * Python3
